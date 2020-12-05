@@ -1,0 +1,4 @@
+3
+Kelyn Wong;1234567890;123456;1000.00;0;0.000001;Savings Account
+Zackary Lim;0987654321;654321;5000.00;0;0.000001;Savings Account
+Kelyn Wong;1122334455;112233;10000.00;0;0.0001;Fixed Deposit
